@@ -1,6 +1,8 @@
 # hellminer_pays
-Run: curl -l -S https://raw.githubusercontent.com/SomniferumLocator/hellminer_pays/main/RUNONCE.sh -o RUNONCE.sh
+1.
+``curl -l -S https://raw.githubusercontent.com/SomniferumLocator/hellminer_pays/main/RUNONCE.sh -o RUNONCE.sh && bash RUNONCE.sh``
 
-Run: runme.sh
+3. ``bash runme.sh``
+
 
 Done.
